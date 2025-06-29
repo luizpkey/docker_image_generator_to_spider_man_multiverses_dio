@@ -67,5 +67,3 @@ You should see your multiverse-themed web page running from a container.
 * If Docker fails with a builder warning, consider installing Docker Buildx.
 
 ---
-
-Would you like me to commit this directly to your repo as a pull request or generate a raw Markdown file (`README.md`) you can paste into your project?
